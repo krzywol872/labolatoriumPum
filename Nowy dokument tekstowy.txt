@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 iodjfojdfajfjfajfaifjijoj
 
 Na obelgê œmierteln¹ dla uszu szlachcica,
@@ -7,3 +8,21 @@ I której ¿aden nigdy nie s³ysza³ Soplica,
 Zadr¿a³ Tadeusz, twarz mu poblad³a jak trupia,
 
 Tupn¹wszy nog¹, usta przyci¹wszy, rzek³: "G³upia!
+=======
+NA LIPÊ
+
+Goœciu, si¹dŸ pod mym liœciem, a odpoczni sobie!
+Nie dójdzie ciê tu s³oñce, przyrzekam ja tobie,
+Choæ siê nawysszej wzbije, a proste promienie
+Œci¹gn¹ pod swoje drzewa rozstrzelane cienie.
+Tu zaw¿dy ch³odne wiatry z pola zawiewaj¹,
+Tu s³owicy, tu szpacy wdziêcznie narzekaj¹.
+Z mego wonnego kwiatu pracowite pszczo³y
+Bior¹ miód, który potym szlachci pañskie sto³y.
+A ja swym cichym szeptem sprawiæ umiem snadnie,
+¯e cz³owiekowi ³acno s³odki sen przypadnie.
+Jab³ek wprawdzie nie rodzê, lecz miê pan tak k³adzie
+Jako szczep nap³odniejszy w hesperyskim sadzie.
+
+Jan Kochanowski
+>>>>>>> 41d8746ffdd8ab1f9350d12bea51376335c35f91
